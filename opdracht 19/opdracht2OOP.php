@@ -9,7 +9,7 @@ class Product
 }
 
 $shoe1 = new Product();
-$shoe1->name = "Nike Air Max Alpha";
+$shoe1->name = "Nike Aird Max Alpha";
 
 $shoe2 = new Product();
 $shoe2->name = "Nike Sock Dart Premium";
